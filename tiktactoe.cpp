@@ -161,7 +161,7 @@ void playGame()
             break;
         }
 
-        // Switch players
+        
         if (currentPlayer == 'X')
         {
             currentPlayer = 'O';
